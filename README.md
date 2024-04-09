@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, JavaScript and web developming, just for fun; 
 - 💞️ I try to expand my horizons and share small projects with people;
 - 📫 How to reach me ... I don't know;
-- 😄 Pronouns: var user_pronoun = "Victor";
+- 😄 Pronouns: var user_pronouns = "he/him";
 - ⚡ Fun fact: I'm always wearing pants and a shirt; no matter what happens 
 
 <!---
